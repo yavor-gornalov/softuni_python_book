@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1063#1
+
 num = int(input())
 
 
