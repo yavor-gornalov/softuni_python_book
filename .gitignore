@@ -130,3 +130,7 @@ dmypy.json
 
 # Ignore .idea files
 .idea/
+
+#ignore text documents
+*.pdf
+*.doc*
